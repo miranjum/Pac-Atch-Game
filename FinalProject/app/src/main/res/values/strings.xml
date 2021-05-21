@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="tap_and_hold_screen_to_move_pac_up_releasing_hold_will_make_pac_fall_down_remember_don_t_hit_red">Tap and Hold screen to move Pac up. Releasing hold will make Pac fall down. REMEMBER: DON\'T HIT RED</string>
+</resources>

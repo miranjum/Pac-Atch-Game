@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Capital Quiz</string>
+
+    <string-array name="quiz_category">
+        <item>All</item>
+        <item>Asia</item>
+        <item>America</item>
+        <item>Europe</item>
+    </string-array>
+</resources>

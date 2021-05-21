@@ -1,0 +1,12 @@
+edu/umb/cs443/BuildConfig.java
+ edu.umb.cs443.BuildConfig
+edu/umb/cs443/HowTo.java
+ edu.umb.cs443.HowTo
+edu/umb/cs443/EndActivity.java
+ edu.umb.cs443.EndActivity
+edu/umb/cs443/BeginActivity.java
+ edu.umb.cs443.BeginActivity
+edu/umb/cs443/MainActivity.java
+ edu.umb.cs443.MainActivity
+ edu.umb.cs443.MainActivity$1
+ edu.umb.cs443.MainActivity$1$1
